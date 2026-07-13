@@ -1,6 +1,6 @@
 # POO411_tareas
 
-Nombre:  
+Nombre:  Cristopher Alexander Cabrera Carvajal
 
-Matrícula:
+Matrícula: 25-EISN-2-049
 
